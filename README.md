@@ -19,9 +19,9 @@ project is to do data ingestion then build an ETL system in the cloud and report
 to the questions asked.
 
 ## Cloud Services Used:
-Amazon S3: It is for object storage.
-AWS IAM: To manage user identities and access to AWS resources.
-AWS QuickSight: BI tool build for the cloud.
-AWS Glue: Serverless data integration service for ETL jobs.
-AWS Lambda: Computing service where we run the code without worrying about managing servers.
-AWS Athena: It is used for interactive query for S3 where there is no need to load data and it stays in S3.
+Amazon S3: It is for object storage. <br />
+AWS IAM: To manage user identities and access to AWS resources.<br />
+AWS QuickSight: BI tool build for the cloud. <br />
+AWS Glue: Serverless data integration service for ETL jobs.<br />
+AWS Lambda: Computing service where we run the code without worrying about managing servers.<br />
+AWS Athena: It is used for interactive query for S3 where there is no need to load data and it stays in S3. <br />
